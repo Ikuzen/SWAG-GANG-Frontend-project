@@ -1,4 +1,31 @@
-*
-{
-  background-image: url("../assets/Swag_icon.png");
+.main-container {
+  text-align: center;
+  border: solid 1px green;
+}
+
+h1 {
+  margin-bottom: 1em;
+  text-decoration: underline dashed crimson;
+  font-style: italic;
+}
+
+.search-container {
+  display: flex;
+  flex-flow: row nowrap;
+  height: 2em;
+  width: 50%;
+  max-width: 70%;
+  margin: auto;
+}
+
+#search-item {
+  width: 85%;
+}
+
+#search-button {
+  width: 15%;
+}
+
+ul {
+  display: inline-block;
 }
