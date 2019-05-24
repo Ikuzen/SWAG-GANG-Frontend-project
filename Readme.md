@@ -2,7 +2,7 @@
 
 ## Prerequisites hahaha
 
-You need to install NodeJS with npm:
+You don't need to install NodeJS with npm anymore:
 
 https://nodejs.org/en/download/
 
